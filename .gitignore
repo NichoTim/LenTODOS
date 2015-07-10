@@ -1,3 +1,10 @@
-LenTODOS
-*.swp
-*.swo
+.DS_*
+node_modules
+*.sublime*
+psd
+thumb
+*.log
+app/configs/config.development.*
+app/configs/config.production.*
+app/configs/config.apitest.*
+*~
