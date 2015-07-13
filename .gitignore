@@ -4,7 +4,6 @@ node_modules
 psd
 thumb
 *.log
-app/configs/config.development.*
 app/configs/config.production.*
 app/configs/config.apitest.*
 *~
